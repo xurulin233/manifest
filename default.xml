@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default sync-j="4" revision="master"/>
+
+  <remote fetch="https://github.com/xurulin233" name="xurulin"/>
+ 
+
+  <!-- xurulin -->
+  <project remote="xurulin" revision="master" name="linux-3.0.8" path="linux-3.0.8"/>
+   <project remote="xurulin" revision="master" name="tiny210v2-uboot" path="tiny210v2-uboot"/>
+</manifest>
