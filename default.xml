@@ -7,6 +7,6 @@
  
 
   <!-- xurulin -->
-  <project remote="xurulin" revision="master" name="linux-3.0.8" path="linux-3.0.8"/>
-   <project remote="xurulin" revision="master" name="tiny210v2-uboot" path="tiny210v2-uboot"/>
+  <project remote="xurulin" revision="main" name="linux-3.0.8" path="linux-3.0.8"/>
+   <project remote="xurulin" revision="main" name="tiny210v2-uboot" path="tiny210v2-uboot"/>
 </manifest>

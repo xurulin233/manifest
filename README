@@ -1,0 +1,2 @@
+ ./repo init -u https://github.com/xurulin233/manifest.git -b main -m default.xml
+ ./repo sync
